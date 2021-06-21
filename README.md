@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/12pj6qaa43q7rd0g/branch/master?svg=true)](https://ci.appveyor.com/project/Sergius92739/ajs-4-3-mocking/branch/master)
